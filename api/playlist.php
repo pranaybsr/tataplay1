@@ -216,7 +216,6 @@ https://prod-sports-hin-fa.jiocinema.com/bpk-tv/News18_UP_Uttarakhand_voot_MOB/F
 #EXTINF:-1 tvg-id="694" group-title="News" tvg-language="Urdu" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Urdu.png",News18 JKLH
 https://prod-sports-hin-fa.jiocinema.com/bpk-tv/News18_Urdu_voot_MOB/Fallback/index.m3u8
 #EXTINF:-1 tvg-id="2825" tvg-logo="" group-title="HINDI",COLORS TV UK 4K
-https://allinonereborn.com/tatatv.php?id=2825
-EOT;
+https://drmlive.in/zee5/play.php?id=165EOT;
 echo $m3u8PlaylistFile . $additionalEntries;
 ?>
